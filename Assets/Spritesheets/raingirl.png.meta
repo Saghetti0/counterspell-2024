@@ -237,7 +237,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 768
+        y: 1024
         width: 256
         height: 256
       alignment: 0
@@ -259,7 +259,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 256
-        y: 768
+        y: 1024
         width: 256
         height: 256
       alignment: 0
@@ -281,7 +281,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 512
-        y: 768
+        y: 1024
         width: 256
         height: 256
       alignment: 0
@@ -303,7 +303,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 768
-        y: 768
+        y: 1024
         width: 256
         height: 256
       alignment: 0
@@ -325,7 +325,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1024
-        y: 768
+        y: 1024
         width: 256
         height: 256
       alignment: 0
@@ -347,7 +347,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1280
-        y: 768
+        y: 1024
         width: 256
         height: 256
       alignment: 0
@@ -369,7 +369,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1536
-        y: 768
+        y: 1024
         width: 256
         height: 256
       alignment: 0
@@ -391,7 +391,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1792
-        y: 768
+        y: 1024
         width: 256
         height: 256
       alignment: 0
@@ -413,7 +413,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 2048
-        y: 768
+        y: 1024
         width: 256
         height: 256
       alignment: 0
@@ -435,7 +435,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 512
+        y: 768
         width: 256
         height: 256
       alignment: 0
@@ -457,7 +457,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 256
-        y: 512
+        y: 768
         width: 256
         height: 256
       alignment: 0
@@ -479,7 +479,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 512
-        y: 512
+        y: 768
         width: 256
         height: 256
       alignment: 0
@@ -501,7 +501,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 768
-        y: 512
+        y: 768
         width: 256
         height: 256
       alignment: 0
@@ -523,7 +523,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1024
-        y: 512
+        y: 768
         width: 256
         height: 256
       alignment: 0
@@ -545,7 +545,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1280
-        y: 512
+        y: 768
         width: 256
         height: 256
       alignment: 0
@@ -567,7 +567,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1536
-        y: 512
+        y: 768
         width: 256
         height: 256
       alignment: 0
@@ -589,7 +589,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1792
-        y: 512
+        y: 768
         width: 256
         height: 256
       alignment: 0
@@ -611,7 +611,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 2048
-        y: 512
+        y: 768
         width: 256
         height: 256
       alignment: 0
@@ -633,7 +633,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 256
+        y: 512
         width: 256
         height: 256
       alignment: 0
@@ -655,7 +655,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 256
-        y: 256
+        y: 512
         width: 256
         height: 256
       alignment: 0
@@ -677,7 +677,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 512
-        y: 256
+        y: 512
         width: 256
         height: 256
       alignment: 0
@@ -699,7 +699,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 768
-        y: 256
+        y: 512
         width: 256
         height: 256
       alignment: 0
@@ -721,7 +721,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1024
-        y: 256
+        y: 512
         width: 256
         height: 256
       alignment: 0
@@ -743,7 +743,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1280
-        y: 256
+        y: 512
         width: 256
         height: 256
       alignment: 0
@@ -765,7 +765,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1536
-        y: 256
+        y: 512
         width: 256
         height: 256
       alignment: 0
@@ -787,7 +787,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1792
-        y: 256
+        y: 512
         width: 256
         height: 256
       alignment: 0
@@ -809,7 +809,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 2048
-        y: 256
+        y: 512
         width: 256
         height: 256
       alignment: 0
@@ -831,7 +831,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
+        y: 256
         width: 256
         height: 256
       alignment: 0
@@ -853,7 +853,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 256
-        y: 0
+        y: 256
         width: 256
         height: 256
       alignment: 0
@@ -875,7 +875,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 512
-        y: 0
+        y: 256
         width: 256
         height: 256
       alignment: 0
@@ -897,7 +897,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 768
-        y: 0
+        y: 256
         width: 256
         height: 256
       alignment: 0
@@ -919,7 +919,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1024
-        y: 0
+        y: 256
         width: 256
         height: 256
       alignment: 0
@@ -941,7 +941,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1280
-        y: 0
+        y: 256
         width: 256
         height: 256
       alignment: 0
@@ -963,7 +963,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1536
-        y: 0
+        y: 256
         width: 256
         height: 256
       alignment: 0
@@ -985,7 +985,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1792
-        y: 0
+        y: 256
         width: 256
         height: 256
       alignment: 0
@@ -1007,7 +1007,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 2048
-        y: 0
+        y: 256
         width: 256
         height: 256
       alignment: 0
@@ -1020,6 +1020,94 @@ TextureImporter:
       bones: []
       spriteID: 9e6084e3785f56f10800000000000000
       internalID: 2262484349037840105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raingirl_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cca3ff75f900ea7b8396f5bc8dac0b9
+      internalID: 1915210427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raingirl_37
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f8b7973fe8ea3068923c20f148d5cf
+      internalID: -846187750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raingirl_38
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d35ff95907915e2c9001c537070ca52
+      internalID: 1207457397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raingirl_39
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9ae6681bf8524298cafd91a040e0c5
+      internalID: 187426284
       vertices: []
       indices: 
       edges: []
@@ -1068,6 +1156,10 @@ TextureImporter:
       raingirl_33: 3796601516469618358
       raingirl_34: 758784413799588309
       raingirl_35: 2262484349037840105
+      raingirl_36: 1915210427
+      raingirl_37: -846187750
+      raingirl_38: 1207457397
+      raingirl_39: 187426284
       raingirl_4: -4213777292451579500
       raingirl_5: 7442561057471065504
       raingirl_6: -6044380191111863771
